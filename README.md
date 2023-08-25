@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🔭 I do MERN, next, redux, c, c++, python, machine learning, flutter.<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I read, workout, hangout.</p>
+<p align="left">- 🔭 I do MERN, next, redux, c, c++, python, machine learning, flutter, dart.<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I read, workout, hangout.</p>
 
 ###
 
