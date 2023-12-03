@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- 🔭 I do MERN, c, c++, python, machine learning & linux.<br>- 📚 I'm currently working on Data Science<br>- ⚡ In my free time I read, workout, hang.</p>
+<p align="left">- 🔭 I do Machine Learning, MERN, c, c++, python & linux.<br>- 📚 I'm currently working on Data Science<br>- ⚡ In my free time I read, workout, hang.</p>
 
 ###
 
