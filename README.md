@@ -6,8 +6,6 @@ Into competitive programming, open source, and anything that makes me think.
 One day i wanna travel the whole damn world with nothing but a laptop.
 ###
 
-<img align="right" height="150" src="https://userpic.codeforces.org/3815454/title/d943eca1b4899318.jpg"  />
-
 ###
 
 <div align="left">
