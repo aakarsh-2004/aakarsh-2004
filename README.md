@@ -1,12 +1,9 @@
 <h2 align="left">Hi 👋! I am Aakarsh</h2>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakarsh-2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakarsh-2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+Just a guy who loves breaking problems till they make sense.
+Into competitive programming, open source, and anything that makes me think.
+One day i wanna travel the whole damn world with nothing but a laptop.
 ###
 
 <img align="right" height="150" src="https://userpic.codeforces.org/3815454/title/d943eca1b4899318.jpg"  />
